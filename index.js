@@ -45,7 +45,7 @@ const axios = require('axios');
         url: 'https://scrapeninja.p.rapidapi.com/scrape',
         headers: {
           'content-type': 'application/json',
-          'X-RapidAPI-Key': '356ac2d1f6msh9a079ea7d992569p1af335jsn5d5a52c346aa',
+          'X-RapidAPI-Key': 'api-key',
           'X-RapidAPI-Host': 'scrapeninja.p.rapidapi.com'
         },
         data: {
