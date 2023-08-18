@@ -16,4 +16,4 @@ then your gonna wanna make a rapidapi account and subscribe to this (its free)
 
 https://rapidapi.com/restyler/api/scrapeninja
 
-then paste your api key in line 48 then your done and you can run the script and it'll scrape the numbers
+then paste your api key in line 48 then your done and you can run the script and it'll scrape the numbers with roblox accounts
