@@ -1,5 +1,9 @@
 How to setup
 
+requirments: a brain, and node.js
+https://nodejs.org/en/download
+
+
 first make a input.txt file then goto https://receive-sms-free.cc/Free-Finland-Phone-Number/ then paste this into your console or use the tampermonkey script in the repo
 
 then you get your output: and put it in input.txt
