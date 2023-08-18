@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         newgen fuckery
-// @author       You
+// @author       forveined
 // @match        https://receive-sms-free.cc/*
 // @grant        none
 // ==/UserScript==
